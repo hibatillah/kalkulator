@@ -3,5 +3,5 @@ Membuat kalkulator dengan html, css dan javascript. css menggunakan TailwindCSS 
 TailwindCSS hanya melalui CDN link.
 
 preview website
-<img width="950" alt="image" src="https://user-images.githubusercontent.com/99963638/210178818-c8daf73e-b042-430b-854b-ef2d2a090519.png">
+<img width="919" alt="image" src="https://user-images.githubusercontent.com/99963638/210178863-a20d6e92-1154-4e9e-bbb8-bac835c6b6c3.png">
 
